@@ -4,7 +4,8 @@ print("Begin with a #.")
 
 class Calculator:
 
-    def __init__(self, run_tot, op, num, equal, entries):               # Jeremy copy TEST
+
+    def __init__(self, run_tot, op, num, equal, entries):               # Jeremy copy
         self.run_tot = run_tot
         self.op = op
         self.num = num
